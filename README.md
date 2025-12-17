@@ -116,8 +116,6 @@ I’m actively exploring opportunities in <strong>Data Analytics, Product Manage
 
 ---
 
----
-
 <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> <strong>Tech Stack</strong>
 <pre>
 Languages:     Python, SQL, JavaScript, Java
