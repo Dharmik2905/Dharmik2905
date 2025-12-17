@@ -54,6 +54,70 @@ I’m actively exploring opportunities in <strong>Data Analytics, Product Manage
 
 ---
 
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30"> <strong>Highlighted Projects & Research</strong>
+
+### 🏆 Hackathon Projects (TAMU Datathon 2025 – Top 3)
+
+- **AI Powered Regulatory Document Classifier (Hitachi use case)**  
+  Built an LLM-driven compliance system using OCR, RAG, and human-in-the-loop validation. Reduced manual review effort by ~60%.  
+  🔗 <a href="https://github.com/Dharmik2905/Regdoc-classifier">Code</a>  
+  🔗 <a href="https://regdoc.streamlit.app/">Dashboard</a>
+
+- **Mai Shan Yun Inventory Intelligence Dashboard**  
+  Unified 13+ operational datasets to forecast inventory reorders and shortage risk. Improved demand forecast accuracy by 27%.  
+  🔗 <a href="https://github.com/Dharmik2905/MSY_Dashboard">Code</a>  
+  🔗 <a href="https://maishanyun-restaurant-analytics.streamlit.app/">Dashboard</a>  
+  🔗 <a href="https://www.linkedin.com/posts/dharmikbhagat_tamudatathon-texasam-hackathon-activity-7395173913967714304-OzEz">Hackathon post</a>
+
+---
+
+### 📊 Analytics & ML Projects
+
+- **Furniture Inventory Management System**  
+  Designed a scalable database and ETL pipeline managing 10K+ customers and 30K+ orders. Improved query performance by 65%.  
+  🔗 <a href="https://www.linkedin.com/posts/dharmikbhagat_how-do-you-decide-which-states-products-activity-7290028353351254016-09jm">Project post</a>
+
+- **KPI Forecasting for Demand Planning**  
+  Built time-series forecasting models with interactive KPI dashboards for business planning.  
+  🔗 <a href="https://github.com/Dharmik2905/KPI_forecasting">Code</a>  
+  🔗 <a href="https://forecasting-kpi-analysis-dharmikbhagat.streamlit.app/">Dashboard</a>
+
+- **Property Lease-Up Analysis (Austin & Akron)**  
+  Applied clustering and GenAI-powered recommendations to analyze lease-up timelines across markets.  
+  🔗 <a href="https://github.com/Dharmik2905/Property_LeaseUp_Analysis_US">Code</a>  
+  🔗 <a href="https://propertyanalysis-dharmikbhagat.streamlit.app/">Dashboard</a>
+
+---
+
+### 📚 Research
+
+- **Extending Commitment–Trust Theory to AI Adoption**  
+  Co-authored a peer-reviewed study published in <em>Marketing Education Review (Taylor & Francis)</em>.  
+  🔗 <a href="https://www.tandfonline.com/eprint/WSMQ6S8NF2NNUZEFQVVT/full?target=10.1080/10528008.2025.2574501">Paper</a>
+
+- **Zero-Shot Medical Image Captioning (Capstone)**  
+  Developed transformer-based architectures achieving 85% accuracy for medical image captioning.  
+  🔗 <a href="https://drive.google.com/file/d/18z-RkG82Kxo_qUNvjwV2HGsPHqXEYNRo/view">Report</a>
+
+- **Discriminant Protein Identification in Down Syndrome (IEEE)**  
+  Reduced feature space from 77 to 17 proteins while improving classification F-score by 18.5%.  
+  🔗 <a href="https://ieeexplore.ieee.org/document/10543387">Paper</a>
+
+---
+
+### 🧑‍🏫 Part-Time & Research Roles
+
+- **Graduate Student Assistant – Dept. of Psychiatry, Texas A&M**  
+  Integrated 150+ applicant records, improved funding allocation accuracy by 25%, and planned the <strong>first-ever psychiatry residency graduation ceremony</strong> 🎓
+
+- **Graduate Research Assistant – Industrial Distribution, Texas A&M**  
+  Course assistant for Manufacturing Distribution Relations and contributor to AI for Industrial Distribution initiatives.  
+  🔗 <a href="https://www.linkedin.com/posts/dharmikbhagat_ai4id-industrialdistribution-ai4id-activity-7364728517697196034-sLaJ">AI4ID work</a>
+
+---
+
+---
+
 <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30"> <strong>Tech Stack</strong>
 <pre>
 Languages:     Python, SQL, JavaScript, Java
