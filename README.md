@@ -82,3 +82,19 @@ AI Systems:    RAG, Agentic AI, LangGraph, LangChain, n8n
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik2905&layout=compact&hide_border=true" />
 </p>
+
+### 🟡 Watch my contributions flow like a data stream
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Dharmik2905/Dharmik2905/output/pacman-contribution-graph.svg"
+    alt="Pacman Contribution Graph"
+    width="90%"
+  />
+</p>
+
+<p align="center">
+  <em>
+    Data in motion — ingestion, processing, and insight.
+  </em>
+</p>
