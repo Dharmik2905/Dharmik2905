@@ -54,7 +54,7 @@ I’m actively exploring opportunities in <strong>Data Analytics, Product Manage
 
 ---
 
-<img src="https://media.giphy.com/media/l0HlG6D7rn3gWeu0o/giphy.gif" width="30"> <strong>Highlighted Projects & Research</strong>
+<img src="https://media.giphy.com/media/l0HlG6D7rn3gWeu0o/giphy.gif" width="40"> <strong>Highlighted Projects & Research</strong>
 
 ### 🏆 Hackathon Projects (TAMU Datathon 2025 – Top 3)
 
