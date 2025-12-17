@@ -23,7 +23,7 @@
 - 😄 Pronouns: He/Him  
 
 ---
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/>
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="30"/>
 
 Problem solver at heart. Data detective by day. Probably planning my next hike or waiting for an F1 weekend.
 
