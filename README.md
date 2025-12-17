@@ -93,8 +93,3 @@ AI Systems:    RAG, Agentic AI, LangGraph, LangChain, n8n
   />
 </p>
 
-<p align="center">
-  <em>
-    Data in motion — ingestion, processing, and insight.
-  </em>
-</p>
