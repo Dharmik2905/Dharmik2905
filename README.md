@@ -75,7 +75,7 @@ AI Systems:    RAG, Agentic AI, LangGraph, LangChain, n8n
 
 ---
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"> <strong>GitHub Stats - (C)hill down, only showing through the impactful dharmik. </strong>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"> <strong>GitHub Stats - (C)hill down, only showing through lens the impactful dharmik. </strong>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dharmik2905&show_icons=true&hide_border=true" />
