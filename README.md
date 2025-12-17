@@ -25,6 +25,7 @@
 ---
 
 Problem solver at heart. Data detective by day. Probably planning my next hike or waiting for an F1 weekend.
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/>
 
 <em>
 Core values (Aggie | RELLIS): Respect • Excellence • Loyalty • Leadership • Integrity • Selfless Service
@@ -36,6 +37,8 @@ I work at the intersection of <strong>business, data, and machine learning</stro
 My technical toolkit spans <strong>Python, advanced SQL, machine learning, and data visualization</strong>, but my real strength lies in connecting <strong>people, process, and technology</strong>. From building churn prediction models that improved customer lifetime value by 15 percent to optimizing database workflows that improved performance by 65 percent, I’m motivated by measurable outcomes.
 
 I consistently dedicate <strong>1.5 to 3 hours daily</strong> to sharpening my craft:
+<img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="28"/> :
+
 1. 📊 Advanced SQL, probability, and machine learning fundamentals  
 2. 🧠 Product thinking and first-principles problem solving  
 3. 🤖 Agentic AI systems and modern data platforms  
