@@ -83,7 +83,9 @@ AI Systems:    RAG, Agentic AI, LangGraph, LangChain, n8n
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik2905&layout=compact&hide_border=true" />
 </p>
 
-### 🟡 Watch my contributions flow like a data stream
+
+
+### 🌊 Contributions in motion 
 
 <p align="center">
   <img
@@ -92,4 +94,5 @@ AI Systems:    RAG, Agentic AI, LangGraph, LangChain, n8n
     width="90%"
   />
 </p>
+
 
