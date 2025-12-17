@@ -54,7 +54,7 @@ I’m actively exploring opportunities in <strong>Data Analytics, Product Manage
 
 ---
 
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="30"> <strong>Highlighted Projects & Research</strong>
+<img src="https://media.giphy.com/media/l0HlG6D7rn3gWeu0o/giphy.gif" width="30"> <strong>Highlighted Projects & Research</strong>
 
 ### 🏆 Hackathon Projects (TAMU Datathon 2025 – Top 3)
 
@@ -91,8 +91,8 @@ I’m actively exploring opportunities in <strong>Data Analytics, Product Manage
 
 ### 📚 Research
 
-- **Extending Commitment–Trust Theory to AI Adoption**  
-  Co-authored a peer-reviewed study published in <em>Marketing Education Review (Taylor & Francis)</em>.  
+- **Extending Commitment–Trust Theory to AI Adoption**
+   Peer-reviewed study published in <em>Marketing Education Review (Taylor & Francis)</em>.  
   🔗 <a href="https://www.tandfonline.com/eprint/WSMQ6S8NF2NNUZEFQVVT/full?target=10.1080/10528008.2025.2574501">Paper</a>
 
 - **Zero-Shot Medical Image Captioning (Capstone)**  
