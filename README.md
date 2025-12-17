@@ -30,6 +30,7 @@ Problem solver at heart. Data detective by day. Probably planning my next hike o
 Core values (Aggie | RELLIS): Respect • Excellence • Loyalty • Leadership • Integrity • Selfless Service
 </em>
 
+
 I work at the intersection of <strong>business, data, and machine learning</strong>, turning complex datasets into practical product solutions that drive real impact. I’m currently pursuing my Master’s in Management Information Systems at <strong>Texas A&M University</strong>, Class of 2026, with a strong focus on statistical thinking, first-principles design, and applied analytics.
 
 My technical toolkit spans <strong>Python, advanced SQL, machine learning, and data visualization</strong>, but my real strength lies in connecting <strong>people, process, and technology</strong>. From building churn prediction models that improved customer lifetime value by 15 percent to optimizing database workflows that improved performance by 65 percent, I’m motivated by measurable outcomes.
@@ -71,7 +72,7 @@ AI Systems:    RAG, Agentic AI, LangGraph, LangChain, n8n
 
 ---
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"> <strong>GitHub Stats</strong>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30"> <strong>GitHub Stats - (C)hill down, only showing through the impactful dharmik. </strong>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dharmik2905&show_icons=true&hide_border=true" />
