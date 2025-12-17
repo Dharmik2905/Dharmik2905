@@ -23,9 +23,9 @@
 - 😄 Pronouns: He/Him  
 
 ---
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/>
 
 Problem solver at heart. Data detective by day. Probably planning my next hike or waiting for an F1 weekend.
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28"/>
 
 <em>
 Core values (Aggie | RELLIS): Respect • Excellence • Loyalty • Leadership • Integrity • Selfless Service
